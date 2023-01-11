@@ -9,4 +9,7 @@
     <string name="total_spend">Seu gasto total será de:</string>
     <string name="total_value">R$ 0</string>
     <string name="calculate">Calcular</string>
+
+    <string name="validation_fill_all_fields">Preencha todos os campos.</string>
+    <string name="validation_fill_different_zero">O valor para autonomia não pode ser zero.</string>
 </resources>
